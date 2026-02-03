@@ -5,7 +5,7 @@
 
 *A deep-learning powered platform for multi-disease medical imaging analysis, built with TensorFlow, FastAPI, Streamlit, and deployed on Render.*
 
-![HealthAI Banner](C:\Users\umaat\Desktop\health_AI\healthai.png)
+![HealthAI Banner](healthai.png)
 
 ---
 
@@ -218,16 +218,16 @@ Add these once screenshots are uploaded:
 
 ## DASBOARD
 
-![Dashboard Home](C:\Users\umaat\Desktop\health_AI\screenshots\dashboard_ha.jpg)
+![Dashboard Home](screenshots/dashboard_ha.jpg)
 
 ## PNEUMONIA PREDICTION
 
-![Pneumonia Prediction Result](C:\Users\umaat\Desktop\health_AI\screenshots\pneumonia_ha.jpg)
+![Pneumonia Prediction Result](screenshots/pneumonia_ha.jpg)
 
 ## MULTIPLE DISEAS PREDICTION
 
-![Multi-Diseas1 Prediction Result](C:\Users\umaat\Desktop\health_AI\screenshots\multi_1.jpg)
-![Multi-Diseas2 Prediction Result](C:\Users\umaat\Desktop\health_AI\screenshots\multi_2.jpg)
+![Multi-Diseas1 Prediction Result](screenshots/multi_1.jpg)
+![Multi-Diseas2 Prediction Result](screenshots/multi_2.jpg)
 
 
 ---
