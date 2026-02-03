@@ -5,8 +5,9 @@
 
 *A deep-learning powered platform for multi-disease medical imaging analysis, built with TensorFlow, FastAPI, Streamlit, and deployed on Render.*
 
-![HealthAI Banner](healthai.png)
-
+<p align="center">
+  <img src="healthai.png" alt="HealthAI Banner" width="300"/>
+</p>
 ---
 
 
