@@ -1,7 +1,7 @@
 
 ---
 
-# 🫁 **HealthAI – AI-Powered Chest X-Ray Disease Detection System**
+#  **HealthAI – AI-Powered Chest X-Ray Disease Detection System**
 
 *A deep-learning powered platform for multi-disease medical imaging analysis, built with TensorFlow, FastAPI, Streamlit, and deployed on Render.*
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 **Overview**
+##  **Overview**
 
 **HealthAI** is an end-to-end medical imaging project that detects **multiple chest diseases** from **X-ray images** using a deep learning model trained on the **CheXpert dataset**.
 It features:
